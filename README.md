@@ -3,7 +3,7 @@ I am Giuseppe Sabetta, a student in the Computer Science course at the Universit
 
 🌱 Over time, I began to appreciate the design of each application more and more and my university projects represent my growth. The statistics regarding my commits in the repositories I have worked on show what my forte really is, namely business logic, distributed system design and database modelling. 
 
-🔭 My aim is not just to design, but to make every project I am part of a secure project
+🔭 My aim is not just to design, but to make every project I am part of a **secure** project
 
 
 ## 🌐 Socials:
