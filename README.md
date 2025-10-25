@@ -5,8 +5,6 @@ I am Giuseppe Sabetta, a student in the Computer Science course at the Universit
 
 🔭 My aim is not just to design, but to make every project I am part of a **secure** project
 
-💻 Currently, I am working on two independent projects. The first is an educational technology website focused on computer science news and current events. The second is an innovative project aimed at improving interpersonal relationships in school settings. These projects reflect my commitment to using technology not only for secure and efficient design but also for fostering better communication and learning experiences.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giuseppesabetta) 
