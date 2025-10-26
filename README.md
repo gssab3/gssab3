@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Giuseppe Sabetta, a student in the Computer Science course at the University of Salerno.
+Graduated in Computer Science from the University of Salerno. Master’s student in Software Engineering and IT Management.
 
 🌱 Over time, I began to appreciate the design of each application more and more and my university projects represent my growth. The statistics regarding my commits in the repositories I have worked on show what my forte really is, namely business logic, distributed system design and database modelling. 
 
