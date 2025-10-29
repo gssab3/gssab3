@@ -5,16 +5,23 @@ Graduated in Computer Science from the University of Salerno. Master’s student
 
 🔭 My aim is not just to design, but to make every project I am part of a **secure** project
 
-<p align="center">
-  Stats - GitHub
-  <a href="https://github.com/gssab3">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=gssab3&theme=transparent&hide_border=true" width="600"/>
-  </a>
-  <br>
-  Stats - TryHackMe (Cybersecurity)
-  <a href="https://tryhackme.com/p/gssab3">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/gssab3.png" alt="Badge of gssab3" />
-</p>
+<table>
+  <tr>
+    <td align="center">Stats - GitHub</td>
+    <td align="center">Stats - TryHackMe (Cybersecurity)</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gssab3">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=gssab3&theme=transparent&hide_border=true" width="600"/>
+    </td>
+    <td align="center">
+      <a href="https://tryhackme.com/p/gssab3">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/gssab3.png" alt="Badge of gssab3" />
+    </td>
+  </tr>
+</table>
+
 
 
 
