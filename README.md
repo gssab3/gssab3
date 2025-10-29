@@ -5,6 +5,10 @@ Graduated in Computer Science from the University of Salerno. Master’s student
 
 🔭 My aim is not just to design, but to make every project I am part of a **secure** project
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gssab3)](https://github.com/gssab3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gssab3&layout=compact)](https://github.com/gssab3)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gssab3)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giuseppesabetta) 
