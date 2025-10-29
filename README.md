@@ -5,8 +5,11 @@ Graduated in Computer Science from the University of Salerno. Master’s student
 
 🔭 My aim is not just to design, but to make every project I am part of a **secure** project
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gssab3&theme=dark&hide_border=true)](https://github.com/gssab3)
-
+<p align="center">
+  <a href="https://github.com/gssab3">
+    <img src="https://streak-stats.demolab.com/?user=gssab3&theme=dark&hide_border=true" />
+  </a>
+</p>
 
 
 ## 🌐 Socials:
