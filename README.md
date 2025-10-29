@@ -7,7 +7,7 @@ Graduated in Computer Science from the University of Salerno. Master’s student
 
 <p align="center">
   <a href="https://github.com/gssab3">
-    <img src="https://streak-stats.demolab.com/?user=gssab3&theme=transparent&hide_border=true" width="600"/>
+    <img src="https://streak-stats.demolab.com/?user=gssab3&theme=transparent&hide_border=true" width="500"/>
   </a>
 </p>
 
